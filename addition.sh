@@ -1,8 +1,9 @@
   
 #!/usr/bin/env bash
-
+echo " Hi This is Siva, Performing Addition\n"
 echo -n 'Enter the First Number: '
 read -r a
 echo -n 'Enter the Second Number: '
 read -r b
 echo "$a + $b = $((a+b))"
+echo "Bye"
